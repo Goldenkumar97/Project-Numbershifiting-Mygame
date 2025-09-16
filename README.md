@@ -43,3 +43,4 @@ Move Down    	Down Arrow
 Move Left    	Left Arrow
 Move Right	  Right Arrow
 Exit Game	    E / e
+images/game_screenshot.png
