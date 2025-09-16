@@ -44,3 +44,7 @@ Move Left    	Left Arrow
 Move Right	  Right Arrow
 Exit Game	    E / e
 images/game_screenshot.png
+<img width="875" height="392" alt="Screenshot 2025-09-16 215010" src="https://github.com/user-attachments/assets/06d7da0c-9f43-4df2-9a19-8834def20a47" />
+<img width="870" height="748" alt="Screenshot 2025-09-16 215033" src="https://github.com/user-attachments/assets/a06d42de-7c6e-4183-8cd7-cb04f6b19751" />
+<img width="559" height="486" alt="Screenshot 2025-09-16 215056" src="https://github.com/user-attachments/assets/cbd89af7-9e8b-42b3-845a-58cbec774582" />
+<img width="879" height="614" alt="Screenshot 2025-09-16 215119" src="https://github.com/user-attachments/assets/15697b3d-1224-42eb-8762-718de25d3ab4" />
