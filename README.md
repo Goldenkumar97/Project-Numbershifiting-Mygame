@@ -1,4 +1,6 @@
 # Project-Numbershifiting-Mygame
+Clone the project :https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame/tree/main
+
 # Number Shifting Game (4x4 Puzzle)
 
 A console-based 4x4 number shifting puzzle game developed in C.
