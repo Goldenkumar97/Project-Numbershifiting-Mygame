@@ -1,5 +1,7 @@
 # Project-Numbershifiting-Mygame
-Clone the project :https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame/tree/main
+Clone the project 
+git clone https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame.git
+
 
 # Number Shifting Game (4x4 Puzzle)
 
