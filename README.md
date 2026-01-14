@@ -3,12 +3,12 @@ Clone the project
 git clone https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame.git
 
 
-# Number Shifting Puzzle (4x4 Puzzle)
+## Number Shifting Puzzle (4x4 Puzzle)
 
 A console-based 4x4 number shifting puzzle game developed in C.
 The objective is to arrange numbers 1–15 in order by moving tiles using arrow keys.
 
-# Features
+## Features
 
 ● Random 4x4 matrix generation with numbers 1–15 and an empty space.
 
@@ -24,7 +24,7 @@ The objective is to arrange numbers 1–15 in order by moving tiles using arrow 
 
 ● Colorful console output for better visibility.
 
-# How to Play
+## How to Play
 
 1. Compile the code using a C compiler (GCC, MinGW, or Code::Blocks).
 
@@ -40,7 +40,7 @@ The objective is to arrange numbers 1–15 in order by moving tiles using arrow 
 
 7. Exit anytime by pressing E or e.
 
-# Controls
+## Controls
 Action	      Key
 Move Up	      Up Arrow
 Move Down    	Down Arrow
