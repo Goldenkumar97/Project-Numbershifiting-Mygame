@@ -1,4 +1,4 @@
-## Project-Number shifiting - Puzzle
+# Project-Number shifiting - Puzzle
 Clone the project 
 git clone https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame.git
 
